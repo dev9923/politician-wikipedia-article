@@ -1,7 +1,0 @@
-politician-wikipedia-article/
-├── README.md
-├── drafts/
-│   └── mahesh-bansal.md
-├── images/
-│   └── bansal.jpg           # Example image referenced in draft
-└── LICENSE                  # Optional license file (e.g., MIT)
